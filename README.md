@@ -1,8 +1,15 @@
 # FIR Filter Design App using Genetic Algorithm (GA)
 
-## Overview
+## Team Members
 
+- **Member 1**: Arjun Sekar (22110034)
+- **Member 2**: Raghavpravin K S (22110208)
+- **Member 3**: Raj Patel (22110214)
+
+## Overview
+<p align="justify"> 
 This project is a MATLAB App designed to create FIR filters using Genetic Algorithm (GA). The app allows users to choose the type of filter (Low Pass, High Pass, Band Pass, or Band Stop), input the filter specifications such as pass band and stop band frequencies, and select the filter order. Once the filter type and parameters are set, the app generates an FIR filter and displays the generation number, pole-zero diagram, and frequency response. These plots update until a proper filter is obtained via the Genetic Algorithm.
+</p>
 
 ## Features
 
