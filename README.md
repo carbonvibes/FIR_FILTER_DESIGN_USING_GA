@@ -6,6 +6,13 @@
 - **Member 2**: Raghavpravin K S (22110208)
 - **Member 3**: Raj Patel (22110214)
 
+## Video Demonstration
+
+A YouTube demonstration video is available for reference, showcasing how to use the app and how the Genetic Algorithm updates the generation number, pole-zero diagram, and frequency response during the process.
+
+[Watch the Video](https://www.youtube.com/watch?v=your-video-id)
+
+
 ## Overview
 <p align="justify"> 
 This project is a MATLAB App designed to create FIR filters using Genetic Algorithm (GA). The app allows users to choose the type of filter (Low Pass, High Pass, Band Pass, or Band Stop), input the filter specifications such as pass band and stop band frequencies, and select the filter order. Once the filter type and parameters are set, the app generates an FIR filter and displays the generation number, pole-zero diagram, and frequency response. These plots update until a proper filter is obtained via the Genetic Algorithm.
@@ -51,26 +58,5 @@ The Genetic Algorithm (GA) is used to optimize the filter coefficients. The app 
 - **Crossover**: Pairs of solutions are combined to generate new potential solutions.
 - **Mutation**: Random modifications are applied to solutions to introduce diversity.
 - **Iteration**: The process continues for several generations until a filter with an acceptable frequency response is obtained.
-
-## Video Demonstration
-
-A YouTube demonstration video is available for reference, showcasing how to use the app and how the Genetic Algorithm updates the generation number, pole-zero diagram, and frequency response during the process.
-
-[Watch the Video](https://www.youtube.com/watch?v=your-video-id)
-
-## Team Members
-
-- **Member 1**: Arjun Sekar (22110034)
-- **Member 2**: [Name]
-- **Member 3** (if applicable): [Name]
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to the MATLAB community and online resources that helped us in building this app.
-- The Genetic Algorithm was implemented using MATLAB's `ga` function from the Optimization Toolbox.
 
 ---
