@@ -29,10 +29,10 @@ This project is a MATLAB App designed to create FIR filters using Genetic Algori
 
 ## Screenshots
 
-![App Screenshot 1](images/screenshot1.png)
-*App interface showing filter parameters input section.*
+![High Pass Filter](images/highpass.png)
+*App interface showing a high pass filter with pass-frequency till 0.3pi & stop-frequency from 0.7pi .*
 
-![App Screenshot 2](images/screenshot2.png)
+![App Screenshot 2](images/lowpass.png)
 *App interface showing updated frequency response and pole-zero diagram.*
 
 ## Genetic Algorithm Details
