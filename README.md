@@ -19,7 +19,7 @@ This project is a MATLAB App designed to create FIR filters using Genetic Algori
 
 ## How to Use the App
 
-1. **Launch the App**: Open the `FIR.mapp` file in MATLAB.
+1. **Launch the App**: Open the `FIR.mlapp` file in MATLAB.
 2. **Select Filter Type**: Use the dropdown menu to select the filter type (Low Pass, High Pass, Band Pass, or Band Stop).
 3. **Set Filter Parameters**:
    - Use the sliders or input fields to define the pass band and stop band frequencies.
