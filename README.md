@@ -10,7 +10,7 @@
 
 A YouTube demonstration video is available for reference, showcasing how to use the app and how the Genetic Algorithm updates the generation number, pole-zero diagram, and frequency response during the process.
 
-[Watch the Video](https://www.youtube.com/watch?v=your-video-id)
+[Watch the Video](https://youtu.be/jFiFDBdd56c)
 
 
 ## Overview
